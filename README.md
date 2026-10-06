@@ -110,3 +110,15 @@ Future Improvements
 - Screenshot comparison
 - Authentication
 - PostgreSQL
+
+
+## Screenshots
+
+### Upload Screen
+![Upload Screen](docs/screenshots/upload.png)
+
+### Reports
+![Reports](docs/screenshots/reports.png)
+
+### Report Detail
+![Report Detail](docs/screenshots/detail.png)
