@@ -81,7 +81,9 @@ cd mobile_app
 flutter pub get
 flutter run
 
-Example AI Output
+## Example AI Output
+
+```json
 {
   "screen_type": "Mobile App Screen",
   "issue_count": 3,
@@ -97,9 +99,10 @@ Example AI Output
   ]
 }
 
-
+```
 
 Project Goal
+
 The goal is to explore multimodal AI and mobile software testing by combining Flutter, Django REST APIs, local vision models, and QA automation concepts.
 Future Improvements
 - Automated app navigation
